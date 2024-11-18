@@ -1,8 +1,8 @@
 # Ecommerce_MERN_Stack
-### Next.js
-### Express.js
-### TypeScript
-### MongoDB
+### Next.js  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+### Express.js <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+### TypeScript <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+### MongoDB <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 
 ## UI
 ![image](https://github.com/user-attachments/assets/d256a39d-531d-4e25-9a8c-fa28a69d71b5)
