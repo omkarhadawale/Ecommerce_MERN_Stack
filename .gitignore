@@ -1,0 +1,81 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Node.js dependencies
+node_modules/
+npm-cache/
+.yarn/
+.yarn-integrity
+dist/
+build/
+
+# Next.js build output
+.next/
+out/
+.vercel/
+server/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# IDE-specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Operating system files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+
+# Testing-related
+coverage/
+.nyc_output/
+jest/
+test-results.xml
+
+# Debug-related
+*.log
+*.lock
+
+# Project-specific exclusions
+# Add your frontend-specific output directory if it's different
+ecommerce-app/.next/
+ecommerce-app/node_modules/
+ecommerce-app/out/
+
+# Backend-specific exclusions
+backend/node_modules/
+backend/build/
+backend/dist/
+
+# Prevent git tracking for custom tooling or editors
+*.sqlite3
+*.db
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
