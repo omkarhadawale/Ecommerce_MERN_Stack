@@ -1,4 +1,9 @@
 # Ecommerce_MERN_Stack
+### Next.js
+### Express.js
+### TypeScript
+### MongoDB
+
 ## UI
 ![image](https://github.com/user-attachments/assets/d256a39d-531d-4e25-9a8c-fa28a69d71b5)
 ![image](https://github.com/user-attachments/assets/b15d4fcf-31c8-4567-a45d-dc52c3bf4ab5)
