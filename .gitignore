@@ -66,6 +66,7 @@ test-results.xml
 ecommerce-app/.next/
 ecommerce-app/node_modules/
 ecommerce-app/out/
+ecommerce-app/public/images/products/*
 
 # Backend-specific exclusions
 backend/node_modules/
